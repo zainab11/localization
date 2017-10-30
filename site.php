@@ -4,9 +4,9 @@ return [
 
     /* all site location varaible */
     // menu options 
-    'home'          => 'Home',
+    'home'          => 'خانه',
     'highlights'    => 'Highlights',
-    'courses'       => 'Courses',
+    'courses'       => 'دوره های آموزشی',
     'enroll'        => 'Enroll',
     'certification' => 'Certification',
     'instruction'   => 'Instruction',
